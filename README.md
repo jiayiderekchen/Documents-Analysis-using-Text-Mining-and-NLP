@@ -1,1 +1,1 @@
-# Documents Emails Analysis using Text Mining and NLP
+# Documents Analysis using Text Mining and NLP
