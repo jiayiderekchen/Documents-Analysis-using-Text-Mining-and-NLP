@@ -1,2 +1,3 @@
+
 For this project, I used packages NLTK. The methods I used include Tokenization, POS tagging, Lexicon Normalization, etc. 
 I also conducted Sentimental Analysis using Multinomial Naive Bayes, achieved an accuracy rate of 60%. 
